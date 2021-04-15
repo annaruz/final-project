@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: 'Grandstander', cursive;
+  text-align: center;
+  line-height: 1.3em;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Shadows Into Light Two', cursive;
+  line-height: 1.1em;
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: .2em;
+}
+
+ul {
+  float: none;
+  position: relative;
+  top: 0;
+  left: 0;
+  transform: none;
+  padding: 1em;
+  background-color: rgb(240,198,225);
+}
+
+nav {
+  text-align: center;
+}
+
+li {
+  display: inline;
+  float: center;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  background-image: url(img/apple.png);
+  background-color: #a8bce1;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 18px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  justify-content: center;
+  text-align: center;
+}
+
+/* photo grid*/
+.photo-grid-container {
+  display: flex;
+  justify-content: center;
+}
+
+.photo-grid {
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-items: center;
+}
+
+.photo-grid-item {
+  border: 1px solid #fff;
+  width: 300px;
+  height: 300px;
+  flex: 1;
+}
+
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+  .photo-grid-item {
+    width: 50%;
+  }
+}
+
+.center-text {
+  text-align: center;
+}
+
+.align {
+  display: inline-block;
+  text-align: left;
+  padding: .2em;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.image {
+  flex-basis: 20%;
+}
