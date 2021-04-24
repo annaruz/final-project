@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
   <head>
-    <meta charset="utf-8">
+    <meta charset='utf-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'/>
-      <link href='styles.css' rel='stylesheet'/>
-      <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Grandstander&family=Quicksand:wght@300;400;500;600;700&family=Shadows+Into+Light+Two&display=swap" rel="stylesheet">
+    <link href='styles.css' rel='stylesheet'/>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+    <link rel='preconnect' href='https://fonts.gstatic.com'>
+<link href='https://fonts.googleapis.com/css2?family=Grandstander&family=Quicksand:wght@300;400;500;600;700&family=Shadows+Into+Light+Two&display=swap' rel='stylesheet'>
   <title>Caring Casa</title>
+
   </head>
   <body>
     <header>
@@ -23,18 +25,82 @@
     <nav class='navbar'>
           <ul>
             <li><a href='about.html'>About</a></li>
-            <li><a href='admission.html'>Admission</a></li>
             <li><a href='events.html'>Events</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href='admission.html'>Admission</a></li>
+            <li><a href='contact.html'>Contact</a></li>
           </ul>
         </nav>
-      <h1>About Us</h1>
-        <p>Caring Casa was founded in 2020. We care for children from 12 to 24 months. We are a family-run business, and we
+        <br>
+      <h2>About Us</h2>
+        <p class='center-p'>Caring Casa was founded in 2020. We care for children from 12 to 24 months. We are a family-run business, and we
         treat each child we care for as though they are a part of our family.</p>
-        <img src='img/reading.jpg' alt='teacher reading to students'>
 
-  <footer>
-    <p>Thanks for visiting!</p>
-  </footer>
+
+    <div class='slideshow-container'>
+      <div class='mySlides fade'>
+        <div class='numbertext'>1 / 3</div>
+        <img src='img/reading.jpg' alt='teacher reading to students' style='width:100%;'/>
+       <div class='text1'>Ms. Sally reading to students</div>
+      </div>
+      <div class='mySlides fade'>
+        <div class='numbertext'>2 / 3</div>
+        <img src='img/letters.jpg' alt='crafts painting letters' style='width:100%;'/>
+        <div class='text1'>Crafts for Students</div>
+      </div>
+      <div class='mySlides fade'>
+        <div class='numbertext'>3 / 3</div>
+        <img src='img/playing.jpg' alt='children playing with toys indoors' style='width:100%;'/>
+        <div class='text1'>Inside play time</div>
+      </div>
+
+      <a class='prev' onclick='plusSlides(-1)'>&#10094;</a>
+      <a class='next' onclick='plusSlides(1)'>&#10095;</a>
+    </div>
+    <br>
+    <div style='text-align:center'>
+      <span class='dot' onclick='currentSlide(1)'></span>
+      <span class='dot' onclick='currentSlide(2)'></span>
+      <span class='dot' onclick='currentSlide(3)'></span>
+    </div>
+    <script>
+      var slideIndex = 0;
+      showSlides();
+
+      function showSlides() {
+        var i;
+        var slides = document.getElementsByClassName('mySlides');
+        for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = 'none';
+        }
+        slideIndex++;
+        if (slideIndex > slides.length) {slideIndex = 1}
+        slides[slideIndex-1].style.display = 'block';
+        setTimeout(showSlides, 6000);
+      }
+    </script>
+
+    <div class='information'>
+      <div class='one about-item'>
+        <h2>Our Classrooms</h2>
+        <img src='img/space.jpg' alt='empty classroom'>
+        <p>Our classrooms are structured each with private bathrooms. Each student has their own cubby.</p>
+      </div>
+      <div class='two about-item'>
+        <h2>Our Curriculum</h2>
+        <img src='img/blocks.jpg' alt='child stacking blocks'>
+        <p>Students learn motor, creative, and reading exercises.</p>
+      </div>
+      <div class='three about-item'>
+        <h2>Our Students</h2>
+        <img src='img/sitting.jpg' alt='children sitting while looking at blocks'>
+        <p>We accept students from ages 12 months to 60 months.</p>
+      </div>
+    </div>
+    <footer>
+      <p>Thanks for visiting!</p>
+      <a href='https://www.instagram.com/pittofficial/' target='_blank' class='fa fa-instagram'></a>
+      <a href='https://twitter.com/PittTweet' target='_blank' class='fa fa-twitter'></a>
+      <a href='https://www.facebook.com/upitt' target='_blank' class='fa fa-facebook'></a>
+    </footer>
   </body>
 </html>

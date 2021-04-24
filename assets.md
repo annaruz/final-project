@@ -1,13 +1,18 @@
-# Prospective Assets
+# Repurposed Assets
 | Features      | Sources    |
 | :------------- | :----------: |
 |  Heading font | Grandstander from [Google Fonts](https://fonts.google.com/specimen/Grandstander?preview.text=Caring%20Casa:%20Where%20You%27re%20Treated%20Like%20Family&preview.text_type=custom&category=Display) licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) allowing free use in products and projects. |
 |  Heading 2 font | Shadows Into Light Two from [Google Fonts](https://fonts.google.com/specimen/Shadows+Into+Light+Two?preview.text=where%20you%27re%20treated%20like%20family&preview.text_type=custom&category=Handwriting&sort=popularity) licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) allowing free use in products and projects. |
 |  Body font | Quicksand from [Google Fonts](https://fonts.google.com/specimen/Quicksand?preview.text=where%20you%27re%20treated%20like%20family&preview.text_type=custom&category=Sans+Serif&sort=popularity) licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) allowing free use in products and projects. |
 | Teacher photo  | Photo by [ThisisEngineering RAEng](https://unsplash.com/@thisisengineering) on [Unsplash](https://unsplash.com/photos/TXxiFuQLBKQ). Free use via [Unsplace License](https://unsplash.com/license). |
-| House  |  Photo by [Jacques Bopp](https://unsplash.com/@jacquesbopp) from [Unsplash](https://unsplash.com/photos/Hh18POSx5qk). Free use via [Unsplash License](https://unsplash.com/license). Photo was edited in GIMP to remove background, railing, and plants.  |
+| House in logo  |  Photo by [Jacques Bopp](https://unsplash.com/@jacquesbopp) from [Unsplash](https://unsplash.com/photos/Hh18POSx5qk). Free use via [Unsplash License](https://unsplash.com/license). Photo was edited in GIMP to remove background, railing, and plants.  |
 | Preschooler  |  Photo by [东旭 王](https://unsplash.com/@dx_www) from [Unsplash](https://unsplash.com/photos/1RFxDE9fwNU). Free use via [Unsplash License](https://unsplash.com/license). |
-| Typing  |  Photo by [Cytonn Photography](https://unsplash.com/@cytonn_photography) from [Unsplash](https://unsplash.com/photos/ZJEKICY5EXY). Free use via [Unsplash License](https://unsplash.com/license). |
-| Calendar  |  Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots) from [Unsplash](https://unsplash.com/photos/9n1USijYJZ4). Free use via [Unsplash License](https://unsplash.com/license). |
+| Hands typing on laptop  |  Photo by [Cytonn Photography](https://unsplash.com/@cytonn_photography) from [Unsplash](https://unsplash.com/photos/ZJEKICY5EXY). Free use via [Unsplash License](https://unsplash.com/license). |
+| Planner image  |  Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots) from [Unsplash](https://unsplash.com/photos/9n1USijYJZ4). Free use via [Unsplash License](https://unsplash.com/license). |
 | Kids with toy cars |  Photo by [BBC Creative](https://unsplash.com/@bethbapchurch) from [Unsplash](https://unsplash.com/photos/1w20Cysy1cg). Free use via [Unsplash License](https://unsplash.com/license). |
-| Kids with toy cars |  Photo by [CDC](https://unsplash.com/@cdc) from [Unsplash](https://unsplash.com/photos/8LITuYkZRIo). Free use via [Unsplash License](https://unsplash.com/license). |
+| Teacher reading to students |  Photo by [CDC](https://unsplash.com/@cdc) from [Unsplash](https://unsplash.com/photos/8LITuYkZRIo). Free use via [Unsplash License](https://unsplash.com/license). |
+| Empty classroom |  Photo by [Gautam Arora](https://unsplash.com/@gautamarora1991) from [Unsplash](https://unsplash.com/photos/78Ae6N7rNvI). Free use via [Unsplash License](https://unsplash.com/license). |
+| Children sitting from above |  Photo by [Marisa Howenstine](https://unsplash.com/@marisahowenstine) from [Unsplash](https://unsplash.com/photos/Cq9slNxV8YU). Free use via [Unsplash License](https://unsplash.com/license). |
+| Kid building blocks |  Photo by [Ryan Fields](https://unsplash.com/@rfieldss) from [Unsplash](https://unsplash.com/photos/Xz7MMD5tZwA). Free use via [Unsplash License](https://unsplash.com/license). |
+| Wooden letters |  Photo by [Gautam Arora](https://unsplash.com/@gautamarora1991) from [Unsplash](https://unsplash.com/photos/OVDtgUhUPBY). Free use via [Unsplash License](https://unsplash.com/license). |
+| Kids riding toy cars |  Photo by [Matiinu Ramadhan](https://unsplash.com/@matiinu) from [Unsplash](https://unsplash.com/photos/Ovmog0nQGZ0). Free use via [Unsplash License](https://unsplash.com/license). |
